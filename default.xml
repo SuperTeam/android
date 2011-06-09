@@ -233,4 +233,5 @@
 
   <project path="android" name="superatmel/android" remote="github" />
 
+
 </manifest>
