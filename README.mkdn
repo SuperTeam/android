@@ -2,11 +2,11 @@ Getting Started
 
 This repo is based in CyanogenMod tree
 
-To get started with Android/superatmel, you'll need to get familiar with Git and Repo.
+To get started with SuperTeam, you'll need to get familiar with Git and Repo.
 
 To initialize your local repository using the superatmel trees, use a command like this:
 
-repo init -u git://github.com/superatmel/android.git -b gingerbread
+repo init -u git://github.com/SuperTeam/android.git -b gingerbread
 Then to sync up:
 
 repo sync
