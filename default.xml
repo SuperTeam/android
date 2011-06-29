@@ -207,7 +207,7 @@
   <project path="device/lge/p990" name="podxboq/android_device_lge_p990" remote="github" />
 <!--Superatmel-->
   <project path="device/geeksphone/one" name="SuperTeam/android_device_geeksphone_one" remote="github" />
-  <project path="device/geeksphone/zero" name="SuperTeam/android_device_geeksphone_zero" remote="github" />
+  <!--<project path="device/geeksphone/zero" name="SuperTeam/android_device_geeksphone_zero" remote="github" />-->
   <project path="device/htc/common" name="SuperTeam/android_device_htc_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="podxboq/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/samsung/crespo" name="SuperTeam/android_device_samsung_crespo" remote="github" />
