@@ -151,6 +151,7 @@
   <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="github" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" />
+  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="master" />
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" remote="github" revision="master" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" />
