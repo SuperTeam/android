@@ -85,6 +85,7 @@
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="platform/external/tremolo" />
+  <project path="external/webp" name="platform/external/webp" revision="master" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
@@ -150,6 +151,7 @@
   <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="github" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" />
+  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="master" />
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" remote="github" revision="master" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" />
@@ -216,6 +218,7 @@
   <project path="device/htc/common" name="SuperTeam/android_device_htc_common" remote="github" />
   <project path="device/samsung/crespo" name="SuperTeam/android_device_samsung_crespo" remote="github" />
   <project path="device/samsung/galaxysmtd" name="SuperTeam/android_device_samsung_galaxysmtd" remote="github" />
+  <project path="device/samsung/galaxytab" name="cm7sgt/android_device_samsung_galaxytab" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
   <project path="frameworks/base" name="SuperTeam/android_frameworks_base" remote="github" />
@@ -244,6 +247,9 @@
   <project path="vendor/tmobile/themes" name="nelo360/android_themes" revision="gingerbread" remote="github" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="SuperTeam/themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="github" />
   <project path="vendor/tmobile/providers/ThemeManager" name="SuperTeam/themes-platform-vendor-tmobile-providers-ThemeManager" remote="github" />
+
+<!-- Kernels -->
+  <project path="kernel/samsung/2.6.35-tab" name="cm7sgt/kernel-galaxytab-gb" remote="github" revision="tab2.6.35.7" />
 
   <project path="android" name="SuperTeam/android" remote="github" />
 
