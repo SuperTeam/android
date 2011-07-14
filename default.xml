@@ -216,7 +216,7 @@
   <project path="device/htc/common" name="SuperTeam/android_device_htc_common" remote="github" />
   <project path="device/samsung/crespo" name="SuperTeam/android_device_samsung_crespo" remote="github" />
   <project path="device/samsung/galaxysmtd" name="SuperTeam/android_device_samsung_galaxysmtd" remote="github" />
-  <project path="device/samsung/galaxytab" name="cm7sgt/android_device_samsung_galaxytab" remote="github" />
+  <project path="device/samsung/galaxytab" name="SuperTeam/android_device_samsung_galaxytab" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
