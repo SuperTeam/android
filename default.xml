@@ -126,6 +126,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
+  <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" remote="github" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
@@ -219,6 +220,7 @@
   <project path="vendor/samsung/galaxysmtd" name="superatmel/android_vendor_samsung_galaxysmtd" remote="github" />
   <project path="device/samsung/galaxytab" name="SuperTeam/android_device_samsung_galaxytab" remote="github" />
   <project path="vendor/samsung/galaxytab" name="superatmel/android_vendor_samsung_galaxytab" remote="github" />
+  <project path="device/samsung/galaxys2" name="superatmel/android_device_samsung_galaxys2" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
