@@ -211,7 +211,7 @@
   <project path="device/lge/spire-common" name="alorma/android_device_lge_spire_common" remote="github" />
   <project path="vendor/lge/p970" name="alorma/android_vendor_lge_p970" remote="github" />
 <!--Superatmel-->
-  <project path="device/geeksphone/one" name="SuperTeam/android_device_geeksphone_one" remote="github" />
+  <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" remote="github" />
   <!--<project path="device/geeksphone/zero" name="SuperTeam/android_device_geeksphone_zero" remote="github" />-->
   <project path="device/htc/common" name="SuperTeam/android_device_htc_common" remote="github" />
   <project path="device/samsung/crespo" name="SuperTeam/android_device_samsung_crespo" remote="github" />
