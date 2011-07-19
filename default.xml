@@ -212,13 +212,13 @@
   <project path="vendor/lge/p970" name="alorma/android_vendor_lge_p970" remote="github" />
 <!--Superatmel-->
   <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" remote="github" />
-  <!--<project path="device/geeksphone/zero" name="SuperTeam/android_device_geeksphone_zero" remote="github" />-->
-  <project path="device/htc/common" name="SuperTeam/android_device_htc_common" remote="github" />
-  <project path="device/samsung/crespo" name="SuperTeam/android_device_samsung_crespo" remote="github" />
+  <!--<project path="device/geeksphone/zero" name="superatmel/android_device_geeksphone_zero" remote="github" />-->
+  <project path="device/htc/common" name="superatmel/android_device_htc_common" remote="github" />
+  <project path="device/samsung/crespo" name="superatmel/android_device_samsung_crespo" remote="github" />
   <project path="vendor/samsung/crespo" name="superatmel/android_vendor_samsung_crespo" remote="github" />
-  <project path="device/samsung/galaxysmtd" name="SuperTeam/android_device_samsung_galaxysmtd" remote="github" />
+  <project path="device/samsung/galaxysmtd" name="superatmel/android_device_samsung_galaxysmtd" remote="github" />
   <project path="vendor/samsung/galaxysmtd" name="superatmel/android_vendor_samsung_galaxysmtd" remote="github" />
-  <project path="device/samsung/galaxytab" name="SuperTeam/android_device_samsung_galaxytab" remote="github" />
+  <project path="device/samsung/galaxytab" name="superatmel/android_device_samsung_galaxytab" remote="github" />
   <project path="vendor/samsung/galaxytab" name="superatmel/android_vendor_samsung_galaxytab" remote="github" />
   <project path="device/samsung/galaxys2" name="superatmel/android_device_samsung_galaxys2" remote="github" />
 
