@@ -254,6 +254,7 @@
 
 <!-- Kernels -->
   <project path="kernel/samsung/2.6.35-tab" name="cm7sgt/kernel-galaxytab-gb" remote="github" revision="tab2.6.35.7" />
+  <project path="kernel/samsung/android-samsung-2.6.35.7" name="CyanogenMod/android_kernel_samsung_c1" remote="github" revision="android-samsung-2.6.35.7" />
 
   <project path="android" name="SuperTeam/android" remote="github" />
 
