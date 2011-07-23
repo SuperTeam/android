@@ -127,7 +127,6 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" remote="github" />
-  <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" />
@@ -205,6 +204,8 @@
   <project path="device/htc/passion-common" name="nelo360/android_device_htc_passion-common" remote="github" />
 <!--podxboq-->
   <project path="device/htc/dream_sapphire" name="podxboq/android_device_htc_dream_sapphire" remote="github" />
+  <project path="device/lge/star-common" name="podxboq/android_device_lge_star-common" remote="github" />
+  <project path="vendor/lge/p990" name="podxboq/android_vendor_lge_p990" remote="github" />
   <project path="device/lge/p990" name="podxboq/android_device_lge_p990" remote="github" />
 <!--alorma-->
   <project path="device/lge/p970" name="alorma/android_device_lge_p970" remote="github" />
