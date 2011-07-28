@@ -222,6 +222,7 @@
   <project path="device/samsung/galaxytab" name="superatmel/android_device_samsung_galaxytab" remote="github" />
   <project path="vendor/samsung/galaxytab" name="superatmel/android_vendor_samsung_galaxytab" remote="github" />
   <project path="device/samsung/galaxys2" name="superatmel/android_device_samsung_galaxys2" remote="github" />
+  <project path="vendor/samsung/aries-common" name="superatmel/android_vendor_samsung_aries-common" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
