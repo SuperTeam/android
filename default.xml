@@ -169,7 +169,6 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" remote="github" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="github" />
-  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="github" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="github" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" />
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" />
@@ -233,6 +232,7 @@
   <project path="packages/apps/Contacts" name="SuperTeam/android_packages_apps_Contacts" remote="github" />
   <project path="packages/apps/Gallery3D" name="SuperTeam/android_packages_apps_Gallery3D" remote="github" />
   <project path="packages/apps/Calculator" name="SuperTeam/android_packages_apps_Calculator" remote="github" />
+  <project path="packages/apps/Camera" name="SuperTeam/android_packages_apps_Camera" remote="github" />
   <project path="packages/apps/DSPManager" name="SuperTeam/android_packages_apps_DSPManager" remote="github" />
   <project path="packages/apps/Launcher2" name="SuperTeam/android_packages_apps_Launcher2" revision="gingerbread" remote="github" />
   <project path="packages/apps/Mms" name="SuperTeam/android_packages_apps_Mms" remote="github" />
