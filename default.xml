@@ -181,7 +181,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
-  <project path="vendor/geeksphone" name="rmcc/proprietary_vendor_geeksphone" remote="github" revision="master" />
+  <project path="vendor/geeksphone" name="CML/propietarios_geeksphone" remote="github" revision="gingerbread" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" remote="github" />
 
 <!-- SuperTeam -->
