@@ -197,7 +197,6 @@
   <project path="device/orange/Boston" name="CML/device_orange_boston" remote="github" />
   <project path="vendor/orange/Boston/proprietary" name="CML/propietarios_boston" remote="github" />
   <project path="device/geeksphone/zero" name="CML/device_geeksphone_zero" remote="github" />
-  <project path="vendor/geeksphone" name="CML/propietarios_geeksphone" remote="github" />
 <!--Nelof-->
   <project path="device/htc/passion" name="nelo360/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="nelo360/android_device_htc_passion-common" remote="github" />
