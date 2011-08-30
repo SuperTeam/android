@@ -126,7 +126,6 @@
 <!-- Cyanogen-->
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
@@ -156,7 +155,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" />
-   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
+  <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" remote="github" />
@@ -221,6 +220,7 @@
   <project path="device/samsung/galaxytab" name="superatmel/android_device_samsung_galaxytab" remote="github" />
   <project path="vendor/samsung/galaxytab" name="superatmel/android_vendor_samsung_galaxytab" remote="github" />
   <project path="device/samsung/galaxys2" name="superatmel/android_device_samsung_galaxys2" remote="github" />
+  <project path="device/samsung/aries-common" name="superatmeld/android_device_samsung_aries-common" remote="github" />
   <project path="vendor/samsung/aries-common" name="superatmel/android_vendor_samsung_aries-common" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
