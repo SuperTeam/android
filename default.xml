@@ -89,7 +89,6 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
@@ -229,6 +228,7 @@
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
   <project path="frameworks/base" name="SuperTeam/android_frameworks_base" remote="github" />
   <project path="hardware/libhardware_legacy" name="SuperTeam/android_hardware_libhardware_legacy" remote="github" />
+  <project path="hardware/broadcom/wlan" name="SuperTeam/android_hardware_broadcom_wlan" remote="github" />
   <project path="packages/apps/ADWLauncher" name="SuperTeam/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/Browser" name="SuperTeam/android_packages_apps_Browser" remote="github" />
   <project path="packages/apps/Contacts" name="SuperTeam/android_packages_apps_Contacts" remote="github" />
