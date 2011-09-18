@@ -189,7 +189,7 @@
   </project>
 <!-- Dispositivos -->
 <!-- shawe -->
-  <project path="device/htc/bravo1" name="shawe/android_device_htc_bravo" remote="github" />
+  <project path="device/htc/bravo" name="shawe/android_device_htc_bravo" remote="github" />
   <project path="vendor/htc/bravo" name="shawe/android_vendor_htc_bravo" remote="github" revision="master"/>
 <!--Adumont-->
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" remote="github" />
