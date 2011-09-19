@@ -123,8 +123,9 @@
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" />
-  <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" remote="github" />
-  <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" remote="github" />
+   <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
+  <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
+  <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" remote="github" />
   <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" remote="github" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" remote="github" />
@@ -172,6 +173,7 @@
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="github" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="github" />
+  <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
@@ -226,7 +228,6 @@
   <project path="vendor/samsung/aries-common" name="superatmel/android_vendor_samsung_aries-common" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
-  <project path="external/bluetooth/bluez" name="SuperTeam/android_external_bluetooth_bluez" remote="github" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
   <project path="frameworks/base" name="SuperTeam/android_frameworks_base" remote="github" />
   <project path="hardware/libhardware_legacy" name="SuperTeam/android_hardware_libhardware_legacy" remote="github" />
@@ -248,7 +249,6 @@
   <project path="packages/apps/Term" name="SuperTeam/android_packages_apps_Term" remote="github" />
   <project path="packages/apps/Torch" name="SuperTeam/android_packages_apps_Torch" remote="github" />
   <project path="packages/apps/Wallpapers" name="SuperTeam/android_packages_apps_Wallpapers" remote="github" />
-  <project path="system/bluetooth" name="SuperTeam/android_system_bluetooth" remote="github" />
   <project path="system/core" name="SuperTeam/android_system_core" remote="github" />
   <project path="system/extras" name="SuperTeam/android_system_extras" remote="github" />
   <project path="vendor/SuperTeam" name="SuperTeam/android_vendor_SuperTeam" remote="github" />
