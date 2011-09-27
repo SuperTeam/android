@@ -191,7 +191,6 @@
 <!-- Dispositivos -->
 <!-- shawe -->
   <project path="device/htc/bravo" name="shawe/android_device_htc_bravo" remote="github" />
-  <project path="vendor/htc/bravo" name="shawe/android_vendor_htc_bravo" remote="github" revision="master"/>
 <!--Adumont-->
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" remote="github" />
   <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" remote="github" />
@@ -204,15 +203,13 @@
   <project path="device/htc/passion" name="nelo360/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="nelo360/android_device_htc_passion-common" remote="github" />
 <!--podxboq-->
-  <project path="vendor/htc/dream_sapphire" name="podxboq/android_vendor_htc_dream_sapphire" remote="github" />
   <project path="device/htc/dream_sapphire" name="podxboq/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/lge/star-common" name="podxboq/android_device_lge_star-common" remote="github" />
-  <project path="vendor/lge/p990" name="podxboq/android_vendor_lge_p990" remote="github" />
+  <project path="vendor/lge" name="podxboq/proprietary_lge" remote="github" />
   <project path="device/lge/p990" name="podxboq/android_device_lge_p990" remote="github" />
 <!--alorma-->
   <project path="device/lge/p970" name="alorma/android_device_lge_p970" remote="github" />
   <project path="device/lge/spire-common" name="alorma/android_device_lge_spire_common" remote="github" />
-  <project path="vendor/lge/p970" name="alorma/android_vendor_lge_p970" remote="github" />
 <!--Superatmel-->
   <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" remote="github" />
   <!--<project path="device/geeksphone/zero" name="superatmel/android_device_geeksphone_zero" remote="github" />-->
