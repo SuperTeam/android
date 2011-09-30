@@ -146,7 +146,6 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="github" revision="gingerbread" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="github" revision="gingerbread" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="gingerbread" />
-  <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="master" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" remote="github" revision="tools_r7" />
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="master" />
   <project path="external/quake" name="CyanogenMod/android_external_quake" remote="github" revision="gingerbread" />
