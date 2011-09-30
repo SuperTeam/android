@@ -193,12 +193,12 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 <!-- Dispositivos -->
-<!-- shawe -->
-  <project path="device/htc/bravo" name="shawe/android_device_htc_bravo" remote="github" />
 <!--Adumont-->
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" remote="github" />
   <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" remote="github" />
 <!--Blerfont-->
+  <project path="device/htc/pyramid" name="blerfont/android_device_htc_pyramid" remote="github" revision="master" />
+  <project path="vendor/htc" name="blerfont/propietarios_htc" remote="github" revision="master" />
 <!-- Carlos-->
   <project path="device/orange/Boston" name="CML/device_orange_boston" remote="github" />
   <project path="vendor/orange/Boston/proprietary" name="CML/propietarios_boston" remote="github" />
@@ -209,8 +209,8 @@
 <!--podxboq-->
   <project path="device/htc/dream_sapphire" name="podxboq/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/lge/star-common" name="podxboq/android_device_lge_star-common" remote="github" />
-  <project path="vendor/lge" name="podxboq/proprietary_lge" remote="github" />
   <project path="device/lge/p990" name="podxboq/android_device_lge_p990" remote="github" />
+  <project path="vendor/lge" name="podxboq/proprietary_lge" remote="github" revision="master" />
 <!--alorma-->
   <project path="device/lge/p970" name="alorma/android_device_lge_p970" remote="github" />
   <project path="device/lge/spire-common" name="alorma/android_device_lge_spire_common" remote="github" />
@@ -228,6 +228,9 @@
   <project path="device/samsung/c1-common" name="superatmel/android_device_samsung_c1-common" remote="github" />
   <project path="device/samsung/aries-common" name="superatmel/android_device_samsung_aries-common" remote="github" />
   <project path="vendor/samsung/aries-common" name="superatmel/android_vendor_samsung_aries-common" remote="github" />
+
+<!-- shawe -->
+  <project path="device/htc/bravo" name="shawe/android_device_htc_bravo" remote="github" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" remote="github" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" remote="github" />
@@ -253,7 +256,6 @@
   <project path="system/core" name="SuperTeam/android_system_core" remote="github" />
   <project path="system/extras" name="SuperTeam/android_system_extras" remote="github" />
   <project path="vendor/SuperTeam" name="SuperTeam/android_vendor_SuperTeam" remote="github" />
-  <project path="vendor/htc" name="blerfont/propietarios_htc" remote="github" revision="master" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="SuperTeam/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" />
   <project path="vendor/tmobile/themes" name="nelo360/android_themes" revision="gingerbread" remote="github" />
