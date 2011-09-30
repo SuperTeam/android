@@ -11,11 +11,11 @@
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
 
-  <default revision="gingerbread"
-           remote="korg" />
+  <default revision="p-gingerbread"
+           remote="omap-mirror" />
 
-  <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
+  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
+  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" />
