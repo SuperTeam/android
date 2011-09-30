@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ <!-- <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />-->
+
   <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
+
+ <!--<remote  name="aurora"
+           fetch="git://codeaurora.org/"
+           review="review.source.android.com" />-->
+
+  <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />
 
   <remote  name="github"
            fetch="git://github.com/"
@@ -10,6 +22,9 @@
 
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
+
+ <!--<default revision="gingerbread"
+           remote="aurora" />-->
 
   <default revision="gingerbread"
            remote="omap-mirror" />
@@ -241,7 +256,7 @@
   <project path="packages/apps/Calculator" name="SuperTeam/android_packages_apps_Calculator" remote="github" revision="gingerbread" />
   <project path="packages/apps/Camera" name="SuperTeam/android_packages_apps_Camera" remote="github" revision="gingerbread" />
   <project path="packages/apps/DSPManager" name="SuperTeam/android_packages_apps_DSPManager" remote="github" revision="gingerbread" />
-  <project path="packages/apps/Launcher2" name="SuperTeam/android_packages_apps_Launcher2" revision="gingerbread" remote="github" revision="gingerbread" />
+  <project path="packages/apps/Launcher2" name="SuperTeam/android_packages_apps_Launcher2" remote="github" revision="gingerbread" />
   <project path="packages/apps/Mms" name="SuperTeam/android_packages_apps_Mms" remote="github" revision="gingerbread" />
   <project path="packages/apps/Parts" name="SuperTeam/android_packages_apps_Parts" remote="github" revision="gingerbread" />
   <project path="packages/apps/Phone" name="SuperTeam/android_packages_apps_Phone" revision="gingerbread" remote="github" revision="gingerbread" />
