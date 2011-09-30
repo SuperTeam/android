@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <!-- <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />-->
-
   <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
-
- <!--<remote  name="aurora"
-           fetch="git://codeaurora.org/"
-           review="review.source.android.com" />-->
-
-  <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />
 
   <remote  name="github"
            fetch="git://github.com/"
@@ -22,9 +10,6 @@
 
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
-
- <!--<default revision="gingerbread"
-           remote="aurora" />-->
 
   <default revision="gingerbread"
            remote="omap-mirror" />
