@@ -188,7 +188,7 @@
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" revision="gingerbread" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="github" revision="gingerbread" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="github" revision="gingerbread" />
-  <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
+  <project path="sdk" name="CyanogenMod/android_sdk" remote="github" revision="tools_r7" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" revision="gingerbread" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="gingerbread" />
   <project path="system/media" name="CyanogenMod/android_system_media" remote="github" revision="gingerbread" />
@@ -259,7 +259,7 @@
   <project path="packages/apps/Launcher2" name="SuperTeam/android_packages_apps_Launcher2" remote="github" revision="gingerbread" />
   <project path="packages/apps/Mms" name="SuperTeam/android_packages_apps_Mms" remote="github" revision="gingerbread" />
   <project path="packages/apps/Parts" name="SuperTeam/android_packages_apps_Parts" remote="github" revision="gingerbread" />
-  <project path="packages/apps/Phone" name="SuperTeam/android_packages_apps_Phone" revision="gingerbread" remote="github" revision="gingerbread" />
+  <project path="packages/apps/Phone" name="SuperTeam/android_packages_apps_Phone" remote="github" revision="gingerbread" />
   <project path="packages/apps/Settings" name="SuperTeam/android_packages_apps_Settings" remote="github" revision="gingerbread" />
   <project path="packages/apps/SpareParts2" name="SuperTeam/android_packages_apps_SpareParts2" remote="github" revision="gingerbread" />
   <project path="packages/apps/SoundRecorder" name="SuperTeam/android_packages_apps_SoundRecorder" remote="github" revision="gingerbread" />
@@ -271,7 +271,7 @@
   <project path="vendor/SuperTeam" name="SuperTeam/android_vendor_SuperTeam" remote="github" revision="gingerbread" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" revision="gingerbread" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="SuperTeam/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="gingerbread" />
-  <project path="vendor/tmobile/themes" name="nelo360/android_themes" revision="gingerbread" remote="github" revision="gingerbread" />
+  <project path="vendor/tmobile/themes" name="nelo360/android_themes" remote="github" revision="gingerbread" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="SuperTeam/themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="github" revision="gingerbread" />
   <project path="vendor/tmobile/providers/ThemeManager" name="SuperTeam/themes-platform-vendor-tmobile-providers-ThemeManager" remote="github" revision="gingerbread" />
 
