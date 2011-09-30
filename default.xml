@@ -68,8 +68,6 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
-  <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libvpx" name="platform/external/libvpx" />
   <project path="external/libxml2" name="platform/external/libxml2" />
@@ -139,6 +137,7 @@
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" remote="github" revision="gingerbread" />
   <project path="external/libexif" name="CyanogenMod/android_external_libexif" remote="github" revision="gingerbread" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="gingerbread" />
+  <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" remote="github" revision="gingerbread" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="github" revision="gingerbread" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" remote="github" revision="gingerbread" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" remote="github" revision="gingerbread" />
