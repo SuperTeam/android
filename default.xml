@@ -15,7 +15,7 @@
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
 
-  <default revision="p-gingerbread"
+  <default revision="gingerbread"
            remote="omap-mirror" />
 
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" revision="gingerbread" />
