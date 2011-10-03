@@ -199,7 +199,7 @@
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" remote="github" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" remote="github" />
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" remote="github" />
-
+  <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" remote="github" />
 <!-- SuperTeam -->
   <project path="build" name="SuperTeam/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
