@@ -143,7 +143,7 @@
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" remote="github" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" remote="github" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" remote="github" />
-  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" remote="github" />
+  <project path="external/bootmenu" name="CyanogenDefy/android_external_bootmenu" remote="github" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="github" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="github" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" />
