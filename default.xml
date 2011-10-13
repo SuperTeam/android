@@ -209,7 +209,6 @@
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" remote="github" />
   <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" remote="github" />
 <!--Blerfont-->
-  <project path="device/htc/pyramid" name="blerfont/android_device_htc_pyramid" remote="github" revision="master" />
   <project path="vendor/htc" name="blerfont/propietarios_htc" remote="github" revision="master" />
 <!-- Carlos-->
   <project path="device/orange/Boston" name="CML/device_orange_boston" remote="github" />
