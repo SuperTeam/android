@@ -29,9 +29,6 @@
   <default revision="gingerbread"
            remote="github" />
 
-  <project path="development" name="platform/development" />
-  <project path="device/common" name="device/common" />
-  <project path="device/sample" name="device/sample" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bison" name="platform/external/bison" />
@@ -121,6 +118,9 @@
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
+  <project path="development" name="CyanogenMod/android_development" />
+  <project path="device/common" name="CyanogenMod/android_device_common" />
+  <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib"  />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
