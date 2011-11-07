@@ -246,7 +246,7 @@
   <project path="vendor/samsung/crespo" name="superatmel/android_vendor_samsung_crespo" />
   <project path="device/samsung/galaxysmtd" name="superatmel/android_device_samsung_galaxysmtd" />
   <project path="vendor/samsung/galaxysmtd" name="superatmel/android_vendor_samsung_galaxysmtd" />
-  <project path="device/samsung/galaxytab" name="superatmel/android_device_samsung_galaxytab
+  <project path="device/samsung/galaxytab" name="superatmel/android_device_samsung_galaxytab" />
   <project path="device/samsung/p1-common" name="superatmel/android_device_samsung_p1-common" />
   <project path="vendor/samsung/galaxytab" name="superatmel/android_vendor_samsung_galaxytab" />
   <project path="device/samsung/galaxys2" name="superatmel/android_device_samsung_galaxys2" />
