@@ -241,6 +241,8 @@
   <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" />
   <!--<project path="device/geeksphone/zero" name="superatmel/android_device_geeksphone_zero" />-->
   <project path="device/htc/common" name="superatmel/android_device_htc_common" />
+  <project path="device/htc/ace" name="superatmel/android_device_htc_ace" />
+  <project path="vendor/htc/ace" name="superatmel/android_vendor_htc_ace" />
   <project path="device/samsung/crespo" name="superatmel/android_device_samsung_crespo" />
   <project path="vendor/samsung/crespo" name="superatmel/android_vendor_samsung_crespo" />
   <project path="device/samsung/galaxysmtd" name="superatmel/android_device_samsung_galaxysmtd" />
