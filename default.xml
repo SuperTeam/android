@@ -246,7 +246,7 @@
 
   <project path="device/semc/anzu" name="superatmel/android_device_semc_anzu" />
   <project path="device/semc/mogami-common" name="superatmel/android_device_semc_mogami-common" />
-  <project path="device/semc/msm7x30" name="superatmel/android_device_semc_msm7x30" />
+  <project path="device/semc/msm7x30-common" name="superatmel/android_device_semc_msm7x30-common" />
   <project path="vendor/semc/anzu" name="superatmel/android_vendor_semc_anzu" />
   <project path="device/samsung/crespo" name="superatmel/android_device_samsung_crespo" />
   <project path="vendor/samsung/crespo" name="superatmel/android_vendor_samsung_crespo" />
