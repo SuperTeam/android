@@ -219,7 +219,7 @@
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" />
   <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" />
 <!--Blerfont-->
-  <project path="vendor/htc" name="blerfont/propietarios_htc" revision="master" />
+  <!--<project path="vendor/htc" name="blerfont/propietarios_htc" revision="master" />-->
 <!-- Carlos-->
   <project path="device/orange/Boston" name="CML/device_orange_boston" />
   <project path="vendor/orange/Boston/proprietary" name="CML/propietarios_boston" />
@@ -241,8 +241,8 @@
   <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" />
   <project path="device/htc/common" name="superatmel/android_device_htc_common" />
   <project path="device/htc/ace" name="superatmel/android_device_htc_ace" />
- <!-- <project path="device/htc/msm7x30" name="CyanogenModl/android_device_htc_msm7x30" />
-  <project path="vendor/htc/ace" name="superatmel/vendor/htc/ace" />-->
+  <project path="device/htc/msm7x30" name="CyanogenModl/android_device_htc_msm7x30" />
+  <project path="vendor/htc/ace" name="superatmel/vendor/htc/ace" />
 
   <project path="device/semc/anzu" name="superatmel/android_device_semc_anzu" />
   <project path="device/semc/mogami-common" name="superatmel/android_device_semc_mogami-common" />
