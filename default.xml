@@ -241,7 +241,7 @@
   <project path="device/geeksphone/one" name="superatmel/android_device_geeksphone_one" />
   <project path="device/htc/common" name="superatmel/android_device_htc_common" />
   <project path="device/htc/ace" name="superatmel/android_device_htc_ace" />
-  <project path="device/htc/msm7x30" name="CyanogenModl/android_device_htc_msm7x30" />
+  <project path="device/htc/msm7x30" name="CyanogenMod/android_device_htc_msm7x30" />
   <project path="vendor/htc/ace" name="superatmel/vendor/htc/ace" />
 
   <project path="device/semc/anzu" name="superatmel/android_device_semc_anzu" />
