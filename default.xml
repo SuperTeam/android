@@ -232,7 +232,7 @@
 <!--podxboq-->
   <project path="device/htc/dream_sapphire" name="podxboq/android_device_htc_dream_sapphire" />
   <!-- <project path="device/lge/star-common" name="podxboq/android_device_lge_star-common" /> -->
-  <!-- <project path="device/lge/p990" name="podxboq/android_device_lge_p990" /> -->
+  <project path="device/lge/p990" name="podxboq/android_device_lge_p990" />
   <project path="vendor/lge" name="podxboq/proprietary_lge" revision="master" />
 <!--alorma-->
   <project path="device/lge/p970" name="alorma/android_device_lge_p970" />
