@@ -215,9 +215,11 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 <!-- Dispositivos -->
-<!--Adumont-->
+<!--adumont-->
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" />
   <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" />
+  <project path="device/htc/chacha" name="adumont/android_device_htc_chacha" />
+  <project path="vendor/htc/chacha" name="adumont/android_vendor_htc_chacha" />
 <!--Blerfont-->
   <!--<project path="vendor/htc" name="blerfont/propietarios_htc" revision="master" />-->
 <!-- Carlos-->
