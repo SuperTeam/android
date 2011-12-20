@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="git://github.com/" />
+ 
+  <remote  name="assembla"
+           fetch="git@git.assembla.com:" />
+ 
+  <default revision="master"
+           remote="github" />
+
+  <project path="device/amlogic/b10ref" remote="assembla" name="android_device_amlogic_b10ref" revision="gingerbread" />
+  <project path="kernel/bravo" name="CyanogenMod/cm-kernel" revision="android-msm-2.6.37" />
+  <project path="kernel/magic" name="pershoot/kernel-2638" />
+  <project path="kernel/tegra" name="CyanogenMod/lge-kernel-star" revision="android-tegra-2.6.32"/>
+  
+</manifest>
