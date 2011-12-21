@@ -98,6 +98,15 @@ function gitStatus(){
 	cd $TOPDIR
 }
 
+function gitBase(){
+	cd $mPath
+	$GIT checkout $mBranch
+	if [ "$?" -ne 0 ]; then
+		$GIT checkout -b $mBranch
+    fi
+	cd $TOPDIR
+}
+
 function setEnv(){
 	getPath $1
 	getRemote $1
@@ -152,15 +161,15 @@ done
 
 for d in $PROJECTLIST; do
 	setEnv $d
-	if [ "$1" = status ]; then
+	if [ "$1" = "status" ]; then
 		if [ -d $mPath ]; then
 			gitStatus
 		fi
-	elif [ "$1" = init ]; then
+	elif [ "$1" = "init" ]; then
 		if [ ! -d $mPath ]; then
 			gitClone
 		fi
-	elif [ "$1" = sync ]; then
+	elif [ "$1" = "sync" ]; then
 	  	echo -e "\033[1;32m" $mPath "\033[0m"
 	  	isSameProject $d
 	  	if [ $? -eq 1 ]; then
@@ -173,7 +182,7 @@ for d in $PROJECTLIST; do
 		else
 			gitClone
 		fi
-	elif [ "$1" = fullsync ]; then
+	elif [ "$1" = "fullsync" ]; then
 	  	echo -e "\033[1;32m" $mPath "\033[0m"
 
 		if [ -d $mPath ]; then
@@ -181,6 +190,11 @@ for d in $PROJECTLIST; do
 			gitUpstream
 		else
 			gitClone
+		fi
+	elif [ "$1" = "base" ]; then
+	  	echo -e "\033[1;32m" $mPath "\033[0m"
+		if [ -d $mPath ]; then
+			gitBase
 		fi
 	fi
 done
