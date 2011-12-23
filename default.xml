@@ -114,7 +114,6 @@
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" revision="tools_r7" />
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
-  <project path="external/quake" name="CyanogenMod/android_external_quake" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
   <project path="external/skia" name="CyanogenMod/android_external_skia" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
