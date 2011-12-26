@@ -97,6 +97,7 @@
   <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
+  <project path="external/memsic" name="SuperTeam/android_external_memsic" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" />
   <project path="external/netcat" name="CyanogenMod/android_external_netcat" />
