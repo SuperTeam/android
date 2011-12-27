@@ -81,7 +81,6 @@
   <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
-  <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
@@ -97,7 +96,6 @@
   <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
-  <project path="external/memsic" name="SuperTeam/android_external_memsic" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" />
   <project path="external/netcat" name="CyanogenMod/android_external_netcat" />
@@ -266,6 +264,8 @@
   <project path="device/htc/bravo" name="shawe/android_device_htc_bravo" />
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" />
+  <project path="external/jhead" name="SuperTeam/android_external_jhead" />
+  <project path="external/memsic" name="SuperTeam/android_external_memsic" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" />
   <project path="frameworks/base" name="SuperTeam/android_frameworks_base" />
   <project path="hardware/libhardware_legacy" name="SuperTeam/android_hardware_libhardware_legacy" />
