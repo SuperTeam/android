@@ -24,8 +24,7 @@
            fetch="git://github.com/tmobile" />
            
   <remote  name="assembla"
-           fetch="git@git.assembla.com:"
-           review="review.SuperTeam.com" />
+           fetch="git@git.assembla.com:" />
 
  <!--<default revision="gingerbread"
            remote="aurora" />-->
