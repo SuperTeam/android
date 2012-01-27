@@ -17,8 +17,7 @@
            review="review.source.android.com" />
 
   <remote  name="github"
-           fetch="git://github.com/"
-           review="review.SuperTeam.com" />
+           fetch="git://github.com/" />
 
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
