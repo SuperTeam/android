@@ -74,6 +74,7 @@
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
   <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
+  <project path="external/gtest" name="CyanogenMod/android_external_gtest" />
   <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
   <project path="external/grub" name="CyanogenMod/android_external_grub" />
   <project path="external/guava" name="CyanogenMod/android_external_guava" />
