@@ -84,7 +84,6 @@
   <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
@@ -269,6 +268,7 @@
 
   <project path="bootable/recovery" name="SuperTeam/android_bootable_recovery" />
   <project path="external/jhead" name="SuperTeam/android_external_jhead" />
+  <project path="external/jpeg" name="SuperTeam/android_external_jpeg" revision="android"/>
   <project path="external/memsic" name="SuperTeam/android_external_memsic" />
   <project path="external/wpa_supplicant_6" name="SuperTeam/android_external_wpa_supplicant_6" />
   <project path="frameworks/base" name="SuperTeam/android_frameworks_base" />
